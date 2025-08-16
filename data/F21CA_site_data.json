@@ -1,0 +1,233 @@
+[
+    {
+        "text": "F21/206CA \nConversational Agents and Spoken Language Processing \nCourse descriptor CA24-25 \nThis course aims to give students the opportunity to develop: \n» An extensive, detailed and critical knowledge of design, implementation and evaluation techniques for \nconversational agents and spoken language processing. \n= An awareness of current research and emerging issues in the field of conversational agents and spoken language \nprocessing. \n» A range of interdisciplinary research methods and specialised practical skills involved in building working \nconversational interfaces. \nThis course covers current and emerging topics in conversational agents, spoken language processing, and multimodal \ninterfaces, including: \nIntroduction to research areas, such as spoken dialogue systems, multi-modal interaction, natural language \nprocessing, and human-robot interaction (HRI). \nSpoken input processing and interpretation. \nInteraction Management. \nOutput generation, multimodal fission, speech and gesture synthesis \nSystem development and evaluation. \nAssessment \nThe coursework is worth 1086% of the mark, and is based around a technical project, where the students have to build \nand evaluate their own end-to-end conversational agent. This generally involves using all components of a \nconversational agent (speech recognition and synthesis, language understanding and generation, dialogue management) \nand integrating them into a demonstration system in some domain (e.g. providing information about a shopping mall, \ncontrolling an automated house, etc). Projects are assigned by week 3 (or earlier). Project groups contain up to 180 \npeople. Masters students have an additional element of the mark given for the quality of the literature review and \nthe level of critical analysis of the field demonstrated therein, and their understanding of the applicability of the \ntechnologies and methods used in emerging technologies and application areas.",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_url": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf",
+            "chunk_id": "F21CA_0",
+            "document_type": "PDF_Text"
+        }
+    },
+    {
+        "text": "Each project group is expected to record \nminutes and agendas for each project meeting, these will be submitted as a supporting document for the final report. \nIn summary, 15% is awarded for a project presentation mid course, 15% for the project demo, and 55% for the final \nreport in week at the end of the course. Please see the course timetable for the week and hand in/presentation times. \n15% is also given for an individual self-assessment report. \nDeliverables \nThere are 4 main coursework deliverables: \n1.Project presentation, mid course. This is a powerpoint and/or video presentation covering the following issues, and \nthe class includes peer review of the proposed work, weighting 15%: \nWhat will your system do?Example dialogues; screen shots / mock-ups. \nWhat is the main research question / focus of the project? \nWhat components will it have? \nWhich tools / subsystems will you use? \nHow will you evaluate it? \nWhat are your different roles in the group project? \nProject plan for remaining of course. \n2.Demonstration of your working system, week towards the end of the course weighting 15% \n» This should show several dialogues in the chosen application domain, illustrating the main research issue and/or \nsystem component that is focused on. \n3.A Research Report describing the technical project in the area of Conversational Agents. This will be submitted at \ncourse end. Format is an ACL style 6-8 page conference paper, with appendices if relevant. Weighting: 55%. The \nreport should cover: \n» Main research or technical question addressed \n» Literature review / related work, including a critical analysis of the field, and commentary on applicability of \nthe technologies and methods used in emerging technologies and application areas.",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_url": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf",
+            "chunk_id": "F21CA_1",
+            "document_type": "PDF_Text"
+        }
+    },
+    {
+        "text": "» Design and implementation of the system: components and architecture \n» Evaluation of the system and presentation of results \n» Suggestions for future work \n= You will upload the record of your project meetings as a set of minutes and agendas recorded for each meeting. \nThese minutes are not assessed but used to help understand project team organisation and roles. An example of this \nrecord should be formatted is here: Example Minutes Agendas.docx \n4.Individual self-reflection report, weighting 15% \nA short individual report on work undertaken addressing the following questions: \n1.How did you plan and manage your own work within the group? \n2.To what extent did you independently solve problems and take initiative within the group? \n3.How did you take responsibility for your own and other’'s work by contributing effectively and conscientiously to \nthe work of your group? \n4.How did you actively maintain good working relationships with group members? \n5.Did you lead the direction of the group project or any aspect of it? \n6.Critically reflect on your roles and responsibilities within the group, and the roles and responsibilities of \nthe other members. \nPlagiarism statement for students: \nThis project is assessed as group work. Readings, web sources and any other material that you use from sources other \nthan lecture material must be appropriately acknowledged and referenced. Plagiarism in any part of your report will \nresult in referral to the disciplinary committee, which may lead to you losing all marks for this coursework and may \nhave further implications on your degree. \nhttps://www.hw.ac.uk/students/studies/examinations/plagiarism.htm \nLateness penalties \nStandard university rules and penalties for late coursework submission will apply to all coursework submissions. See \nthe student handbook. \nCourse Timetable \nTimetable S1 - January (Edinburgh Campus).",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_url": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf",
+            "chunk_id": "F21CA_2",
+            "document_type": "PDF_Text"
+        }
+    },
+    {
+        "text": "See \nthe student handbook. \nCourse Timetable \nTimetable S1 - January (Edinburgh Campus).. \nTime: 9-11am \nMonday AM: \n» Lecture + Demos + Lab [2hrs] Room: PGCT \n= Time: 9-11am \nTuesday PM: \n» F20CA Project Group Meeting Time: 2pm, 2.30pm, 3pm \n» 30 mins supervision (wks 2,3,4,7,9,10,11,12) \n» Specific project meeting rooms will be allocated in week 1 \nThursday PM: \n» F21CA Project Group Meeting Time: 2-3pm Varying from [30 mins supervision+ 36 mins group meeting] (wks \n2,3,4,7,9,10,11,12) to group only discussion (see below) \n» Specific project meeting rooms will be allocated in week 1 \nLecture + Lab Tutorials Assignments \nIntroduction GA, OL, MPA: \n* Intro to spoken dialogue Project Selection \nsystems and conversational \nagents. Intro to Natural \nWEEK 1 Language Processing. System \narchitectures. \n* Intro to Projects. Intro to \nTeams. Project selection \nsystem. » Supervisors will be \navailble in meeting rooms \nto give further details on \nproject and project \nrequirements. \nLecture AS: Neural Response \nGeneration F21CA 30 min \n State of the art generative F20CA 20 min \nWEEK 2 language models Demo presentation description \n* All you need to know about  |Project Supervision: Progress \nLLMs \nProject Management \nLab: Ollama \nF21CA 30 min \nLecture GA: Ethics/Safety and \nResponse Generation NLG F20CA 20 min WEEK 3 \nLab: Ethics Approval Project Supervision: Project Plan \nReview Task Allocation \nLecture OL: Understanding Natural \nLanguage in Context \n* Theory and methods for NLU. F21CA 30 min \nSLU, and pragmatic issues in \nlanguage understanding. \n* How can we get machines to \nunderstand what words \n\"really\" mean.",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_url": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf",
+            "chunk_id": "F21CA_3",
+            "document_type": "PDF_Text"
+        }
+    },
+    {
+        "text": "F21CA 30 min \nSLU, and pragmatic issues in \nlanguage understanding. \n* How can we get machines to \nunderstand what words \n\"really\" mean.. F20CA 20 min \nWEEK 4 \nProject Supervision: Progress \nProject Management \nLab: Reading assignment class quiz \nand group discussion \nLecture GA: Evaluation and Data \nCollection \nGroups meet without WEEK 5 ¢ evaluation methods s ) supervision manage project » crowdsourcing dialogue data \nLab: evaluation plan for each group \nWEEK 6 Consolodation Week No Lecture No Tutorial \nStudent Project presentations + \nfeedback session (ALL) \nYour presentation should cover: \n* What will your system do? \n» Example dialogues; screen \nshots / mock-ups. \n* What is the main research \nquestion / focus of the project? \ne E.g. SLU,DM,NLGor....? \n» What components will it have? \n¢ Which tools / subsystems will \nyou use? \n* How will you evaluate 1t? \n* e.g. User tests? Simulations? \n* What are your roles in the \nproject? \n* Project plan — from week 7-12 F21CA 30 min \nF20CA 20 min \nWEEK 7 Project presentations \nProject Supervision: Progress \nProject Management \nLecture OL: Dialogue Management \nand NLG \n» \"what to say and how to say it\" \nin conversational systems.",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_url": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf",
+            "chunk_id": "F21CA_4",
+            "document_type": "PDF_Text"
+        }
+    },
+    {
+        "text": "* Reinforcement Learning \nmethods for optimising DM |Groups meet without \nand NLG decisions supervision manage project \n* DM and NLG in the era of \nLLMs WEEK 8 \nLab/practical : RASA CALM: \nconversational Al with Language \nmodels \nLecture MPA: Speech Technology \no Text to Speech (TTS) \n Expressive TTS F21CA 30 min \n» Voice Cloning F20CA 20 min \nWEEK 9 * Vocal Puppetry \n* Automatic Speech Recognition Project Supervision: Progress \nASR : ( ) Project Management \n* Priniciples \n* Tools \nLab: Using cloud ASR and TTS \nGuest Lecture: Hazel Morton - \nSpeech Graphics \nAugmenting conversational Al with \nanimated digital characters \n* Speech graphics' animation \ntechnology: our roots in the \ngames industry F21CA 30 min \n* Animations and gestures as \nthey apply to conversation F20CA 20 min \nWEEK 10 * Crafting conversational \nexperiences with digital Project Supervision: Progress \ncharacters \n» Applications and cases studies |Project Management \n(I will share a few examples \nfrom our Rapport clients \nacross different verticals/use \ncases) \n¢ Challenges and Opportunities \nLab: Speech Graphics Intro to \nRapport \nLecture MPA: Conversational \nInteraction F21CA 30 min \nTurn taking and Interruption F20CA 20 min \nMulti-speaker systems \nIncremental ASR Lab: Script \nfollower demo \nConversational Analysis \nStudent project demos/ reports + \nfeedback session (ALL). WEEK 11 \nProject Supervision: Progress \nProject Management \nYour demo presentation should be a \nmixture of slides and video or a live \ndemo — recommended length about \n10 mins - used to explain: \n* the overall concept and aims of] \nyour system \n* the main problems to be solved \nin creating your system \nWEEK 12 * what your demo is showing — \n1.e.",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_url": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf",
+            "chunk_id": "F21CA_5",
+            "document_type": "PDF_Text"
+        }
+    },
+    {
+        "text": "what your system’s new \nfeatures are \n¢ the main software / NLP \nmodules that your team has \nworked on \n* the evaluation plan (and any \nresults you have) \n* how it could be improved / \nfuture work roles of different \nteam members in the system \ndevelopment F21CA 30 min \nF20CA 20 min \nProject Supervision: Report Project Demo \nWriting \nReport Writing \n* Deadline: student project report (minimum 6 pages, maximum 8 \npages: appendices and bibliography not counted in page count: ACL \nconference-paper style, use either the latex template, or word \ntemplate. Send completed report by email as pdf to your project \nsupervisor by the report deadline. You must also submit the minutes \nof your project meetings as supporting documentation. \n* Deadline: Individual self-reflection report: Write a report (maximum \n1 page) on your experience of the group process answering the \nfollowing questions: [a— FINAL . How did you plan and manage your own work within the group? \nREPORT/INDIVIDUAL 2. To what extent did you independently solve problems and take \nREPORT Friday 4th APRIL nitiative within the group? \n3. How did you take responsibility for your own and other’s work by \ncontributing effectively and conscientiously to the work of your \ngroup? \n4. How did you actively maintain good working relationships with \ngroup members? \n. Did you lead the direction of the group project or any aspect of it? \n6. Critically reflect on your roles and responsibilities within the group, \nand the roles and responsibilities of the other members. Ln \nSubmit via canvas \nCourse Team \nCourse lLeader: \nMatthew Aylet - M.Aylett@hw.ac.uk \nCourse Team Members: \nOliver Lemon - 0.Lemon@hw.ac.uk \nGavin Abercrombie - G.Abercrombie@hw.ac.uk \nExternal Project Leaders: \nAlessandro Suglia - A.Suglia@hw.ac.uk \nBruce Wilson - bwwil@hw.ac.uk \nTeaching_Assistants: \nArash Ashrafzadeh - aa2676@hw.ac.uk \nSheena Shabana - S.Shabana@hw.ac.uk",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_url": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf",
+            "chunk_id": "F21CA_6",
+            "document_type": "PDF_Text"
+        }
+    },
+    {
+        "text": "{0: '', 1: 'Lecture  +  Lab', 2: 'Tutorials', 3: 'Assignments'}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row0",
+            "document_type": "PDF_Table",
+            "0": "",
+            "1": "Lecture  +  Lab",
+            "2": "Tutorials",
+            "3": "Assignments"
+        }
+    },
+    {
+        "text": "{0: 'WEEK  1', 1: 'Introduction  GA,  OL,  MPA: \\n* \\nIntro  to  spoken  dialogue \\nsystems  and  conversational \\nagents. \\nIntro  to  Natural \\nLanguage  Processing.  System \\narchitectures. \\n* \\nIntro  to  Projects.  Intro  to \\nTeams.  Project  selection \\nsystem.', 2: 'Project  Selection \\n» \\nSupervisors  will  be \\navailble  in  meeting  rooms \\nto \\ngive \\nfurther  details \\non \\nproject  and  project \\nrequirements.', 3: ''}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row1",
+            "document_type": "PDF_Table",
+            "0": "WEEK  1",
+            "1": "Introduction  GA,  OL,  MPA: \n* \nIntro  to  spoken  dialogue \nsystems  and  conversational \nagents. \nIntro  to  Natural \nLanguage  Processing.  System \narchitectures. \n* \nIntro  to  Projects.  Intro  to \nTeams.  Project  selection \nsystem.",
+            "2": "Project  Selection \n» \nSupervisors  will  be \navailble  in  meeting  rooms \nto \ngive \nfurther  details \non \nproject  and  project \nrequirements.",
+            "3": ""
+        }
+    },
+    {
+        "text": "{0: 'WEEK  2', 1: 'Lecture  AS:  Neural  Response \\nGeneration \\n State  of  the \\nart  generative \\nlanguage  models \\n* \\nAll  you  need  to  know  about \\nLLMs \\nLab:  Ollama', 2: 'F21CA  30  min \\nF20CA  20  min \\n |Project  Supervision:  Progress \\nProject  Management', 3: 'Demo  presentation  description'}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row2",
+            "document_type": "PDF_Table",
+            "0": "WEEK  2",
+            "1": "Lecture  AS:  Neural  Response \nGeneration \n State  of  the \nart  generative \nlanguage  models \n* \nAll  you  need  to  know  about \nLLMs \nLab:  Ollama",
+            "2": "F21CA  30  min \nF20CA  20  min \n |Project  Supervision:  Progress \nProject  Management",
+            "3": "Demo  presentation  description"
+        }
+    },
+    {
+        "text": "{0: 'WEEK  3', 1: 'Lecture  GA:  Ethics/Safety  and \\nResponse  Generation  NLG \\nLab:  Ethics  Approval', 2: 'F21CA  30  min \\nF20CA  20  min \\nProject  Supervision:  Project  Plan \\nReview  Task  Allocation', 3: ''}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row3",
+            "document_type": "PDF_Table",
+            "0": "WEEK  3",
+            "1": "Lecture  GA:  Ethics/Safety  and \nResponse  Generation  NLG \nLab:  Ethics  Approval",
+            "2": "F21CA  30  min \nF20CA  20  min \nProject  Supervision:  Project  Plan \nReview  Task  Allocation",
+            "3": ""
+        }
+    },
+    {
+        "text": "{0: 'WEEK  4', 1: 'Lecture  OL:  Understanding  Natural \\nLanguage  in  Context \\nTheory  and  methods  for  NLU. \\n* \\nSLU,  and  pragmatic  issues \\nin \\nlanguage  understanding. \\n* \\nHow  can  we  get  machines  to \\nunderstand  what  words \\n\"really\"  mean. \\nLab:  Reading  assignment  class \\nquiz \\nand  group  discussion', 2: 'F21CA  30  min \\nF20CA  20  min \\nProject  Supervision:  Progress \\nProject  Management', 3: ''}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row4",
+            "document_type": "PDF_Table",
+            "0": "WEEK  4",
+            "1": "Lecture  OL:  Understanding  Natural \nLanguage  in  Context \nTheory  and  methods  for  NLU. \n* \nSLU,  and  pragmatic  issues \nin \nlanguage  understanding. \n* \nHow  can  we  get  machines  to \nunderstand  what  words \n\"really\"  mean. \nLab:  Reading  assignment  class \nquiz \nand  group  discussion",
+            "2": "F21CA  30  min \nF20CA  20  min \nProject  Supervision:  Progress \nProject  Management",
+            "3": ""
+        }
+    },
+    {
+        "text": "{0: 'WEEK  5', 1: 'Lecture  GA:  Evaluation  and  Data \\nCollection \\n¢ \\nevaluation  methods \\n» \\ncrowdsourcing  dialogue  data \\nLab:  evaluation  plan  for  each  group', 2: 'Groups  meet  without \\ns \\n) \\nsupervision  manage  project', 3: ''}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row5",
+            "document_type": "PDF_Table",
+            "0": "WEEK  5",
+            "1": "Lecture  GA:  Evaluation  and  Data \nCollection \n¢ \nevaluation  methods \n» \ncrowdsourcing  dialogue  data \nLab:  evaluation  plan  for  each  group",
+            "2": "Groups  meet  without \ns \n) \nsupervision  manage  project",
+            "3": ""
+        }
+    },
+    {
+        "text": "{0: 'WEEK  6  Consolodation \\nWeek', 1: 'No  Lecture', 2: 'No  Tutorial', 3: ''}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row6",
+            "document_type": "PDF_Table",
+            "0": "WEEK  6  Consolodation \nWeek",
+            "1": "No  Lecture",
+            "2": "No  Tutorial",
+            "3": ""
+        }
+    },
+    {
+        "text": "{0: 'WEEK  7', 1: 'Student  Project  presentations  + \\nfeedback  session  (ALL) \\nYour  presentation  should  cover: \\n* \\nWhat  will  your  system  do? \\n» \\nExample  dialogues; \\nscreen \\nshots  /  mock-ups. \\n* \\nWhat  is  the  main  research \\nquestion  /  focus  of  the  project? \\ne \\nE.g.  SLU,DM,NLGor....? \\n» \\nWhat  components  will  it  have? \\n¢ \\nWhich  tools  /  subsystems  will \\nyou  use? \\n* \\nHow  will  you  evaluate  1t? \\n* \\ne.g.  User  tests?  Simulations? \\n* \\nWhat  are  your  roles  in  the \\nproject? \\n* \\nProject  plan  —  from  week  7-12', 2: 'F21CA  30  min \\nF20CA  20  min \\nProject  Supervision:  Progress \\nProject  Management', 3: 'Project  presentations'}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row7",
+            "document_type": "PDF_Table",
+            "0": "WEEK  7",
+            "1": "Student  Project  presentations  + \nfeedback  session  (ALL) \nYour  presentation  should  cover: \n* \nWhat  will  your  system  do? \n» \nExample  dialogues; \nscreen \nshots  /  mock-ups. \n* \nWhat  is  the  main  research \nquestion  /  focus  of  the  project? \ne \nE.g.  SLU,DM,NLGor....? \n» \nWhat  components  will  it  have? \n¢ \nWhich  tools  /  subsystems  will \nyou  use? \n* \nHow  will  you  evaluate  1t? \n* \ne.g.  User  tests?  Simulations? \n* \nWhat  are  your  roles  in  the \nproject? \n* \nProject  plan  —  from  week  7-12",
+            "2": "F21CA  30  min \nF20CA  20  min \nProject  Supervision:  Progress \nProject  Management",
+            "3": "Project  presentations"
+        }
+    },
+    {
+        "text": "{0: 'WEEK  8', 1: 'Lecture  OL:  Dialogue  Management \\nand  NLG \\n» \\n\"what  to \\nsay  and  how  to  say  it\" \\nin  conversational  systems. \\n* \\nReinforcement  Learning \\nmethods  for  optimising  DM \\nand  NLG  decisions \\n* \\nDM  and  NLG  in  the  era  of \\nLLMs \\nLab/practical  :  RASA  CALM: \\nconversational  Al  with  Language \\nmodels', 2: '|Groups  meet  without \\nsupervision  manage  project', 3: ''}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row8",
+            "document_type": "PDF_Table",
+            "0": "WEEK  8",
+            "1": "Lecture  OL:  Dialogue  Management \nand  NLG \n» \n\"what  to \nsay  and  how  to  say  it\" \nin  conversational  systems. \n* \nReinforcement  Learning \nmethods  for  optimising  DM \nand  NLG  decisions \n* \nDM  and  NLG  in  the  era  of \nLLMs \nLab/practical  :  RASA  CALM: \nconversational  Al  with  Language \nmodels",
+            "2": "|Groups  meet  without \nsupervision  manage  project",
+            "3": ""
+        }
+    },
+    {
+        "text": "{0: 'WEEK  9', 1: 'Lecture  MPA:  Speech  Technology \\no \\nText  to  Speech  (TTS) \\n Expressive  TTS \\n» \\nVoice  Cloning \\n* \\nVocal  Puppetry \\n* \\nAutomatic  Speech  Recognition \\nASR \\n( \\n) \\n* \\nPriniciples \\n* \\nTools \\nLab:  Using  cloud  ASR  and  TTS', 2: 'F21CA  30  min \\nF20CA  20  min \\nProject  Supervision:  Progress \\n: \\nProject  Management', 3: ''}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row9",
+            "document_type": "PDF_Table",
+            "0": "WEEK  9",
+            "1": "Lecture  MPA:  Speech  Technology \no \nText  to  Speech  (TTS) \n Expressive  TTS \n» \nVoice  Cloning \n* \nVocal  Puppetry \n* \nAutomatic  Speech  Recognition \nASR \n( \n) \n* \nPriniciples \n* \nTools \nLab:  Using  cloud  ASR  and  TTS",
+            "2": "F21CA  30  min \nF20CA  20  min \nProject  Supervision:  Progress \n: \nProject  Management",
+            "3": ""
+        }
+    },
+    {
+        "text": "{0: 'WEEK  10', 1: \"Guest  Lecture:  Hazel  Morton  - \\nSpeech  Graphics \\nAugmenting  conversational  Al  with \\nanimated  digital  characters \\n* \\nSpeech  graphics'  animation \\ntechnology:  our  roots  in  the \\ngames  industry \\n* \\nAnimations  and  gestures  as \\nthey  apply  to  conversation \\n* \\nCrafting  conversational \\nexperiences  with  digital \\ncharacters \\n» \\nApplications  and  cases  studies \\n(I  will  share  a  few  examples \\nfrom  our  Rapport  clients \\nacross  different  verticals/use \\ncases) \\n¢ \\nChallenges  and  Opportunities \\nLab:  Speech  Graphics  Intro  to \\nRapport\", 2: 'F21CA  30  min \\nF20CA  20  min \\nProject  Supervision:  Progress \\n|Project  Management', 3: ''}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row10",
+            "document_type": "PDF_Table",
+            "0": "WEEK  10",
+            "1": "Guest  Lecture:  Hazel  Morton  - \nSpeech  Graphics \nAugmenting  conversational  Al  with \nanimated  digital  characters \n* \nSpeech  graphics'  animation \ntechnology:  our  roots  in  the \ngames  industry \n* \nAnimations  and  gestures  as \nthey  apply  to  conversation \n* \nCrafting  conversational \nexperiences  with  digital \ncharacters \n» \nApplications  and  cases  studies \n(I  will  share  a  few  examples \nfrom  our  Rapport  clients \nacross  different  verticals/use \ncases) \n¢ \nChallenges  and  Opportunities \nLab:  Speech  Graphics  Intro  to \nRapport",
+            "2": "F21CA  30  min \nF20CA  20  min \nProject  Supervision:  Progress \n|Project  Management",
+            "3": ""
+        }
+    },
+    {
+        "text": "{0: 'WEEK  11', 1: 'Lecture  MPA:  Conversational \\nInteraction \\nTurn  taking  and  Interruption \\nMulti-speaker  systems \\nIncremental  ASR  Lab: \\nScript \\nfollower  demo \\nConversational  Analysis', 2: 'F21CA  30  min \\nF20CA  20  min \\nProject  Supervision:  Progress \\nProject  Management', 3: ''}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row11",
+            "document_type": "PDF_Table",
+            "0": "WEEK  11",
+            "1": "Lecture  MPA:  Conversational \nInteraction \nTurn  taking  and  Interruption \nMulti-speaker  systems \nIncremental  ASR  Lab: \nScript \nfollower  demo \nConversational  Analysis",
+            "2": "F21CA  30  min \nF20CA  20  min \nProject  Supervision:  Progress \nProject  Management",
+            "3": ""
+        }
+    },
+    {
+        "text": "{0: 'WEEK  12', 1: 'Student  project  demos/  reports  + \\nfeedback  session  (ALL). \\nYour  demo  presentation  should  be \\na \\nmixture  of  slides \\nand  video  or \\na  live \\ndemo  —  recommended  length  about \\n10  mins  -  used  to  explain: \\n* \\nthe \\noverall  concept  and  aims  of] \\nyour  system \\n* \\nthe  main  problems  to  be  solved \\nin  creating  your  system \\n* \\nwhat  your  demo  is  showing  — \\n1.e.  what  your  system’s  new \\nfeatures  are \\n¢ \\nthe  main  software  /  NLP \\nmodules  that  your  team  has \\nworked  on \\n* \\nthe  evaluation  plan  (and  any \\nresults  you  have) \\n* \\nhow  it  could  be  improved  / \\nfuture  work  roles \\nof  different \\nteam  members  in  the  system \\ndevelopment', 2: 'F21CA  30  min \\nF20CA  20  min \\nProject  Supervision:  Report \\nWriting \\nReport  Writing', 3: 'Project  Demo'}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row12",
+            "document_type": "PDF_Table",
+            "0": "WEEK  12",
+            "1": "Student  project  demos/  reports  + \nfeedback  session  (ALL). \nYour  demo  presentation  should  be \na \nmixture  of  slides \nand  video  or \na  live \ndemo  —  recommended  length  about \n10  mins  -  used  to  explain: \n* \nthe \noverall  concept  and  aims  of] \nyour  system \n* \nthe  main  problems  to  be  solved \nin  creating  your  system \n* \nwhat  your  demo  is  showing  — \n1.e.  what  your  system’s  new \nfeatures  are \n¢ \nthe  main  software  /  NLP \nmodules  that  your  team  has \nworked  on \n* \nthe  evaluation  plan  (and  any \nresults  you  have) \n* \nhow  it  could  be  improved  / \nfuture  work  roles \nof  different \nteam  members  in  the  system \ndevelopment",
+            "2": "F21CA  30  min \nF20CA  20  min \nProject  Supervision:  Report \nWriting \nReport  Writing",
+            "3": "Project  Demo"
+        }
+    },
+    {
+        "text": "{0: 'FINAL \\nREPORT/INDIVIDUAL \\nREPORT  Friday  4th  APRIL', 1: '', 2: '', 3: 'Ln \\n[a— \\n* \\nDeadline: \\nstudent  project  report  (minimum  6  pages,  maximum  8 \\npages:  appendices  and  bibliography  not  counted  in  page  count:  ACL \\nconference-paper  style,  use  either  the  latex  template,  or  word \\ntemplate.  Send  completed  report  by  email  as  pdf  to  your  project \\nsupervisor  by  the  report  deadline.  You  must  also  submit  the  minutes \\nof  your  project  meetings  as  supporting  documentation. \\n* \\nDeadline:  Individual  self-reflection  report:  Write  a  report  (maximum \\n1  page)  on  your  experience  of  the  group  process  answering  the \\nfollowing  questions: \\n.  How  did  you  plan  and  manage  your  own  work  within  the  group? \\n2. \\nTo  what  extent  did  you  independently  solve  problems  and  take \\nnitiative  within  the  group? \\n3.  How  did  you  take  responsibility  for  your  own  and  other’s  work  by \\ncontributing  effectively  and  conscientiously  to \\nthe  work  of  your \\ngroup? \\n4.  How  did  you  actively  maintain  good  working  relationships  with \\ngroup  members? \\n.  Did  you  lead  the  direction  of  the  group  project  or  any  aspect  of  it? \\n6.  Critically  reflect  on  your  roles  and  responsibilities  within  the  group, \\nand  the  roles  and  responsibilities  of  the  other  members. \\nSubmit  via  canvas'}",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\data\\pdfs\\f21ca_site_text.pdf#table0_row13",
+            "document_type": "PDF_Table",
+            "0": "FINAL \nREPORT/INDIVIDUAL \nREPORT  Friday  4th  APRIL",
+            "1": "",
+            "2": "",
+            "3": "Ln \n[a— \n* \nDeadline: \nstudent  project  report  (minimum  6  pages,  maximum  8 \npages:  appendices  and  bibliography  not  counted  in  page  count:  ACL \nconference-paper  style,  use  either  the  latex  template,  or  word \ntemplate.  Send  completed  report  by  email  as  pdf  to  your  project \nsupervisor  by  the  report  deadline.  You  must  also  submit  the  minutes \nof  your  project  meetings  as  supporting  documentation. \n* \nDeadline:  Individual  self-reflection  report:  Write  a  report  (maximum \n1  page)  on  your  experience  of  the  group  process  answering  the \nfollowing  questions: \n.  How  did  you  plan  and  manage  your  own  work  within  the  group? \n2. \nTo  what  extent  did  you  independently  solve  problems  and  take \nnitiative  within  the  group? \n3.  How  did  you  take  responsibility  for  your  own  and  other’s  work  by \ncontributing  effectively  and  conscientiously  to \nthe  work  of  your \ngroup? \n4.  How  did  you  actively  maintain  good  working  relationships  with \ngroup  members? \n.  Did  you  lead  the  direction  of  the  group  project  or  any  aspect  of  it? \n6.  Critically  reflect  on  your  roles  and  responsibilities  within  the  group, \nand  the  roles  and  responsibilities  of  the  other  members. \nSubmit  via  canvas"
+        }
+    }
+]

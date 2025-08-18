@@ -95,5 +95,5 @@ def main(course_id, url=None, pdf=None, docs_dir=None):
     
 if __name__ == "__main__":
     this_dir = os.path.dirname(__file__)
-    pdf_path = os.path.abspath(os.path.join(this_dir, "..", "data", "pdfs", "f21ca_site_text.pdf"))
+    pdf_path = os.path.abspath(os.path.join(this_dir, "..", "pdfs", "f21ca_site_text.pdf"))
     main(course_id="F21CA", pdf=pdf_path)

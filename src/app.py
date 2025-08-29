@@ -13,16 +13,26 @@ embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
 llm = Groq(
     model="moonshotai/kimi-k2-instruct",
-    api_key="YOUR_GROQ_API_KEY",
+    api_key="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",
     temperature=0.5,
     max_tokens=800,
 )
 
 # --- Streamlit UI ---
 st.title("HWU AI Learning Buddy 🤖")
+# Initialize chat history in Streamlit's session state for multi-turn conversations
+if "messages" not in st.session_state:
+    st.session_state.messages = []
+# Display chat messages from history on app rerun
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
 query = st.text_input("Enter your question:")
 
 if st.button("Ask") and query.strip():
+    # Add user message to chat history
+    st.session_state.messages.append({"role": "user", "content": query})
+
     with st.spinner("Thinking..."):
 
         # Step 4: Retrieval
@@ -62,3 +72,6 @@ if st.button("Ask") and query.strip():
         for chunk in response_gen:
             full_answer += chunk.delta
             answer_placeholder.markdown(full_answer)
+
+        # Add assistant response to chat history
+        st.session_state.messages.append({"role": "assistant", "content": full_answer})

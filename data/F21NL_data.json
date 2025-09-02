@@ -1,0 +1,62 @@
+[
+    {
+        "text": "# Overview of course assessment\nThe **Introduction to Natural Language Processing (F21NL)** course aims to:\n\n\nlay the ​foundations​ of core concepts in Linguistics;\n\npresent the most common ​Natural Language Processing (NLP) problems​ together with appropriate Machine Learning solutions;\n\nfamiliarise students with ​NLP​ ​applications​ in currently active research areas using Machine Learning techniques;\n\nenable students to build simple​ NLP applications ​using commonly used libraries;\n\nraise critical ​awareness​ of the ​appropriateness of NLP techniques​ and the relationships between them.\n\n\nAssessment of this course has been designed to evaluate your understanding of the key course learning outcomes (LOs) which we\n\nreport below:\n\n\nLO1: Understand core concepts in Linguistics;\n\n\nLO2: Understand the linguistic motivation behind common Natural Language Processing (NLP) problems;\n\n\nLO3: Practice the mathematics underpinning methodologies of machine learning models for NLP;\n\n\nLO4: Differentiate between some popular machine learning modelling architectures to NLP;\n\n\nLO5: Assess the appropriateness and performance of different machine learning models to solve common NLP problems;\n\n\nLO6: Choose appropriate machine learning modelling libraries to conduct experiments for training and evaluating NLP systems;\n\n\nLO7: Conduct research independently to tackle practical problems.\n\n\nAssessment consists of the following elements:\n\n\n\n\n\n\n\n\n\n\n\n\n|Assessment|Deadlines and<br>marks|Description|Relevant learning<br>outcomes|\n|---|---|---|---|\n|**Coursework 1**: Word Embeddings using<br>the GENSIM library|15%; released on<br>24/09 - Week 3,<br>deadline on 15/10 -<br>Week 6|You will train and re-use some<br>popular word embedding algorithms<br>and compare them on a_classic_<br>benchmark word similarity dataset.|LO3, LO4, LO5, LO6, LO7|\n|**Coursework 2**: Language Modelling and<br>Machine Translation|(25%; released on<br>22/10 - Week 7,<br>deadline on 26/11 -<br>Week 12)|You will use the PyTorch-lightning<br>framework to train and re-use some<br>industry-standard Neural Network<br>architectures for Machine Translation.|LO3, LO4, LO5, LO6, LO7|\n|**Final exam on Canvas**|60%|This is an** on-campus invigilated**<br>**closed-book online exam on**<br>**Canvas**composed of a combination<br>of multiple choice and short essay<br>questions. The exam will cover all the<br>topics taught throughout the course,<br>but will not require any actual coding<br>on the computer. Code snippets<br>might be included in the questions.|LO1, LO2, LO3, LO4, LO5|\n\n\n\nWe will use **Google Colab** **[(https://colab.research.google.com/)](https://colab.research.google.com/)** for each coursework; this will enable you to have access to\n\ncomputational resources in the cloud to run your code. Each coursework will consist of a Python notebook with boilerplate code that\n\nyou will use to build your solutions. All the NLP libraries required for these coursework assessments will be taught and described during\n\nthe lab sessions. Therefore, for this course is essential to attend the labs sessions.\n\n\n**NB** : Before you submit each piece of coursework you will be required to complete a **[Declaration of Authorship](https://ebsglobal.instructure.com/courses/28967/quizzes/60155)**\n\n\n**[(https://ebsglobal.instructure.com/courses/28967/quizzes/60155)](https://ebsglobal.instructure.com/courses/28967/quizzes/60155)** form.",
+        "metadata": {
+            "course_id": "F21NL",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21nl\\f21NL-course_assessment_overview.pdf",
+            "heading": "Overview of course assessment",
+            "heading_level": 1,
+            "heading_path": "Overview of course assessment"
+        }
+    },
+    {
+        "text": "# What will we study in this course\n",
+        "metadata": {
+            "course_id": "F21NL",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21nl\\f21NL-course_outline.pdf",
+            "heading": "What will we study in this course",
+            "heading_level": 1,
+            "heading_path": "What will we study in this course"
+        }
+    },
+    {
+        "text": "## Welcome to F21NL - Introduction to Natural Language Processing (NLP) course!\nWe hope you will enjoy learning from the content found herein, as well as from each other.\n\n\nHere is a summary of the course:\n\n\nThe _main learning outcomes_ are divided into four parts:\n\n\n1. The theory behind some **foundation problems in NLP**\n\n2. Several popular **Deep Learning** architectures for **Language Modelling**\n\n3. An overview of some **core NLP Applications**\n\n4. **Practical implementation** of models mostly using Deep Learning architectures on downstream tasks\n\n\nThe _topics_ we will cover will span 3 different modules:\n\n\n1. **Theory** Learning Outcomes\n\n\nI. **Foundations in NLP**\n\n\n1. Problems and Phenomena of Interest in NLP\n\n2. Machine Learning for NLP Primer\n\n3. Distributional Semantics and Language Modelling\n\nII. **Deep Learning Architectures in NLP**\n\n\n1. Language Modelling with Neural Networks\n\n2. Sequence-to-sequence models\n\n3. Self-attention and Transformers\n\n4. Pre-trained Language Models\n\nIII. **NLP Applications**\n\n\n1. NLU and NLG tasks (e.g., Text Summarisation, Question Answering)\n\n2. Vision and Language tasks (e.g., Caption Generation, Visual Question Answering)\n\n2. **Practical** Learning Outcomes\n\n\n1. Use PyTorch and PyTorch-lightning to train models\n\n2. Explore popular pre-trained models\n\n\nThe _logistics_ of the course are as follows:\n\n\nEvery week consists of 2 _Units_ :\n\n\nTheory Unit\n\n\n2-hour **Classroom Session** on **1-2 topics** : _Each_ topic typically consists of a few core concepts that we will be exploring in more\n\ndetail following the slide deck of **Lecture Notes** and a few pages from the relevant chapter from the **[handbooks](https://ebsglobal.instructure.com/courses/28967/pages/course-handbooks-ay23-24)**\n\n\n**[(https://ebsglobal.instructure.com/courses/28967/pages/course-handbooks-ay23-24)](https://ebsglobal.instructure.com/courses/28967/pages/course-handbooks-ay23-24)** . The Lecture Notes will typically be available\n\na few days before class. Some topics might take more than one session.\n\n\nPractical Unit\n\n\n1 Python **Lab Sheet** mostly using Google Colab\n\n2-hour **Lab** **Session** that will work on Lab Sheet interactively. Labs will follow the theory topics covered in the classroom and will\n\ncover all necessary frameworks required to tackle the coursework. No prior knowledge of the frameworks taught is required of\n\ncourse!\n\n\nFinally, there will be 2 different types of assessments:\n\n\n2 **Coursework Assignments** (40%)\n\n\n1 Programming assignment on Word Embeddings, and implementation of downstream tasks and their evaluation (15%;\n\n**Handed-out** : 24/09/2024 - Week 3, **Deadline** : 15/10/2024 - Week 6)\n\n1 Programming assignment on Machine Translation, including extensive training and evaluation experiments. (25%; **Handed-**\n\n**out** : 22/10/2024 - Week 7, **Deadline** : 26/11/2024 - Week 12)\n\n1 **On-campus invigilated closed-book online Final Exam on Canvas** (60%)\n\n\nQuizzes and practical exercises covering key concepts in the course;\n\nDesign questions of NLP applications that require critical thinking\n\n\nIf you have any questions about the course at any point, please do get in touch with us (Yannis, Alessandro) either via email, during\n\noffice hours, or in the discussion boards.\n\n\nWe are looking forward to an exciting Semester full of NLP, Language Modeling, and PyTorch coding!\n\n\n-- Course Team (Yannis Konstas, Alessandro Suglia)",
+        "metadata": {
+            "course_id": "F21NL",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21nl\\f21NL-course_outline.pdf",
+            "heading": "Welcome to F21NL - Introduction to Natural Language Processing (NLP) course!",
+            "heading_level": 2,
+            "heading_path": "What will we study in this course>Welcome to F21NL - Introduction to Natural Language Processing (NLP) course!"
+        }
+    },
+    {
+        "text": "# Meet the Course Team\n**Alessandro Suglia**\n\n\n\n**Yannis Konstas**\n\n\n**[i.konstas@hw.ac.uk](mailto:t.georgiou@hw.ac.uk)**\n\n\n**[(mailto:t.georgiou@hw.ac.uk)](mailto:t.georgiou@hw.ac.uk)**\n\n\n**[(mailto:t.georgiou@hw.ac.uk)](mailto:t.georgiou@hw.ac.uk)**\n\n**Course Leader**\n\nOffice hours: TBC\n\n\n**Amit Parekh**\n\n**[amit.parekh@hw.ac.uk](mailto:amit.parekh@hw.ac.uk)**\n\n\n**[(mailto:amit.parekh@hw.ac.uk)](mailto:amit.parekh@hw.ac.uk)**\n\n\n**[(mailto:amit.parekh@hw.ac.uk)](mailto:amit.parekh@hw.ac.uk)**\n\n**Teaching/Lab Assistant**\n\n\n\n**[a.suglia@hw.ac.uk](mailto:t.georgiou@hw.ac.uk)**\n\n\n**[(mailto:t.georgiou@hw.ac.uk)](mailto:t.georgiou@hw.ac.uk)**\n\n\n**[(mailto:t.georgiou@hw.ac.uk)](mailto:t.georgiou@hw.ac.uk)**\n\n\n**[(mailto:.suglia@hw.ac.uk)](mailto:.suglia@hw.ac.uk)**\n\n**Course co-ordinator**\n\nOffice hours: Thursdays\n\nbetween 12pm and 1pm in\n\nEM G.33\n\n\n**George Pantazopoulos**\n\n**[gmp2000@hw.ac.uk](mailto:gmp2000@hw.ac.uk)**\n\n\n**[(mailto:gmp2000@hw.ac.uk)](mailto:gmp2000@hw.ac.uk)**\n\n\n**[(mailto:amit.parekh@hw.ac.uk)](mailto:amit.parekh@hw.ac.uk)**\n\n**Teaching/Lab Assistant**\n\n\n\n**General inquiries** about the course should be sent to both course coordinators.",
+        "metadata": {
+            "course_id": "F21NL",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21nl\\f21NL-course_team.pdf",
+            "heading": "Meet the Course Team",
+            "heading_level": 1,
+            "heading_path": "Meet the Course Team"
+        }
+    },
+    {
+        "text": "# Schedule - Key Dates\n**Lectures:** Tuesdays, 09:00 - 11:00 @ **WP109**\n\n**Labs:** Tuesdays, 13:00 - 15:00 @ **EM245**\n\n\nWP=William Perkin, EM=Earl Mountbatten",
+        "metadata": {
+            "course_id": "F21NL",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21nl\\f21NL-schedule.pdf",
+            "heading": "Schedule - Key Dates",
+            "heading_level": 1,
+            "heading_path": "Schedule - Key Dates"
+        }
+    },
+    {
+        "text": "## Weekly Schedule\n|Week|Lectures|Interactive Session/Lab|Assignments (CW)|\n|---|---|---|---|\n||**Module 1: Foundations in NLP**|||\n|1|**Topic 1: Introduction/What we will cover**<br>**Topic 2: Problems/Phenomena of interest**<br>**in NLP**|**W1-Lab**. Python Primer||\n|2|**Topic 2 (cont): Problems/Phenomena of**<br>**interest in NLP**<br>**Topic 3: Machine Learning for NLP Primer**|**W2-Lab**. Numpy Primer and PyTorch<br>Tensors||\n|3|**Topic 4: Distributional Semantics**|**W3-Lab**. Embeddings and using GENSIM|**CW1 (Announced)**: Word<br>Embeddings**[15%]**<br>_Tuesday 24/09_|\n||**Module 2: Deep Learning Architectures in**<br>**NLP**|||\n|4|**Topic 5: Language Modelling with Neural**<br>**Networks**|**W4-Lab.** Gradients, Autograd, FFN<br>Classifier with PyTorch||\n|5|**Topic 6: Sequence-to-Sequence Models**|**W5-Lab.** n-gram LM with PyTorch||\n|6|**Consolidation Week**|**No Lab**|**CW1 (Deadline)**<br>_Tuesday 15/10_|\n|7|**Topic 7: Self-attention and Transformers**|**W7-Lab.** Introduction to PyTorch Lightning|**CW2 (Announced)**: Machine<br>Translation**[25%]**<br>_Thursday 24/10_|\n|8|**Topic 8: Pre-trained Language Models**|**W8-Lab.** CW2 Q&A Session||\n||**Module 3: NLP Applications**|||\n|9|**Topic 9:** Intent Prediction, Text<br>Summarisation, Question Answering|**W9-Lab.** NLU Intent Classification with<br>BERT||\n|10|**No Lecture.**|**No Lab.**||\n|11|**Topic 10:** Beyond text-only: Caption<br>Generation, Visual Question Answering|**W11-Lab.** CW2 Q&A Session||\n|12|**(No Teaching)**||**CW2 (Deadline)**<br>_Thursday 28/11_|",
+        "metadata": {
+            "course_id": "F21NL",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21nl\\f21NL-schedule.pdf",
+            "heading": "Weekly Schedule",
+            "heading_level": 2,
+            "heading_path": "Schedule - Key Dates>Weekly Schedule"
+        }
+    }
+]

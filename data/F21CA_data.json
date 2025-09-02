@@ -1,0 +1,92 @@
+[
+    {
+        "text": "# Assessment\n",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21ca\\f21CA-assessment.pdf",
+            "heading": "Assessment",
+            "heading_level": 1,
+            "heading_path": "Assessment"
+        }
+    },
+    {
+        "text": "## Coursework\nThe coursework is worth 100% of the mark, and is based around a technical project, where the students have to build and evaluate\n\ntheir own end-to-end conversational agent. This generally involves using all components of a conversational agent (speech recognition\n\nand synthesis, language understanding and generation, dialogue management) and integrating them into a demonstration system in\n\nsome domain (e.g. providing information about a shopping mall, controlling an automated house, etc). Projects are assigned by week 3\n\n(or earlier). Project groups contain up to 10 people. Masters students have an additional element of the mark given for the quality of\n\nthe literature review and the level of critical analysis of the field demonstrated therein, and their understanding of the applicability of the\n\ntechnologies and methods used in emerging technologies and application areas. Each project group is expected to record minutes and\n\nagendas for each project meeting, these will be submitted as a supporting document for the final report.\n\n\nIn summary, 15% is awarded for a project presentation mid course, 15% for the project demo, and 55% for the final report in week at\n\nthe end of the course. Please see the course timetable for the week and hand in/presentation times. 15% is also given for an individual\n\nself-assessment report.\n\n\n**Deliverables**\n\n\nThere are 4 main coursework deliverables:\n\n\n1. Project presentation, mid course. This is a powerpoint and/or video presentation covering the following issues, and the class\n\n\nincludes peer review of the proposed work, weighting 15%:\n\n\nWhat will your system do?\n\nExample dialogues; screen shots / mock-ups.\n\nWhat is the main research question / focus of the project?\n\nWhat components will it have?\n\nWhich tools / subsystems will you use?\n\nHow will you evaluate it?\n\nWhat are your different roles in the group project?\n\nProject plan for remaining of course.\n\n\n2. Demonstration of your working system, week towards the end of the course weighting 15%\n\n\n1. This should show several dialogues in the chosen application domain, illustrating the main research issue and/or system\n\n\ncomponent that is focused on.\n\n\n3. A Research Report describing the technical project in the area of Conversational Agents. This will be submitted at course end.\n\n\nFormat is an ACL style 6-8 page conference paper, with appendices if relevant. Weighting: 55%. The report should cover:\n\n\n1. Main research or technical question addressed\n\n2. Literature review / related work, including a critical analysis of the field, and commentary on applicability of the technologies and\n\n\nmethods used in emerging technologies and application areas.\n\n3. Design and implementation of the system: components and architecture\n\n4. Evaluation of the system and presentation of results\n\n5. Suggestions for future work\n\n6. You will upload the record of your project meetings as a set of minutes and agendas recorded for each meeting. These minutes\n\n\nare not assessed but used to help understand project team organisation and roles. An example of this record should be\n\nformatted is here **Example Minutes Agendas.docx** **[(https://ebsglobal.instructure.com/courses/28888/files/3957440?wrap=1)](https://ebsglobal.instructure.com/courses/28888/files/3957440?wrap=1)**\n\n\n**[(https://ebsglobal.instructure.com/courses/28888/files/3957440/download?download_frd=1)](https://ebsglobal.instructure.com/courses/28888/files/3957440/download?download_frd=1)**\n\n\n4. Individual self-reflection report, weighting 15%\n\n\nA short individual report on work undertaken addressing the following questions:\n\n\n1. How did you plan and manage your own work within the group?\n\n2. To what extent did you independently solve problems and take initiative within the group?\n\n3. How did you take responsibility for your own and other’s work by contributing effectively and conscientiously to the work of your\n\n\ngroup?\n\n4. How did you actively maintain good working relationships with group members?\n\n\n5. Did you lead the direction of the group project or any aspect of it?\n\n6. Critically reflect on your roles and responsibilities within the group, and the roles and responsibilities of the other members.\n\n\n**Plagiarism statement for students:**\n\n\nThis project is assessed as group work. Readings, web sources and any other material that you use from sources other than lecture\n\nmaterial must be appropriately acknowledged and referenced. Plagiarism in any part of your report will result in referral to the\n\ndisciplinary committee, which may lead to you losing all marks for this coursework and may have further implications on your degree.\n\n\n**[https://www.hw.ac.uk/students/studies/examinations/plagiarism.htm](https://www.hw.ac.uk/students/studies/examinations/plagiarism.htm)**\n\n\n**[(https://www.hw.ac.uk/students/studies/examinations/plagiarism.htm)](https://www.hw.ac.uk/students/studies/examinations/plagiarism.htm)**\n\n\n**Lateness penalties**\n\n\nStandard university rules and penalties for late coursework submission will apply to all coursework submissions. See the student\n\nhandbook.",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21ca\\f21CA-assessment.pdf",
+            "heading": "Coursework",
+            "heading_level": 2,
+            "heading_path": "Assessment>Coursework"
+        }
+    },
+    {
+        "text": "# Course descriptor CA24-25\nThis course aims to give students the opportunity to develop:\n\n\nAn extensive, detailed and critical knowledge of design, implementation and evaluation\n\ntechniques for conversational agents and spoken language processing.\n\n\nAn awareness of current research and emerging issues in the field of conversational agents\n\nand spoken language processing.\n\n\nA range of interdisciplinary research methods and specialised practical skills involved in\n\nbuilding working conversational interfaces.\n\n\nThis course covers current and emerging topics in conversational agents, spoken language\n\nprocessing, and multimodal interfaces, including:\n\n\nIntroduction to research areas, such as spoken dialogue systems, multi-modal interaction,\n\nnatural language processing, and human-robot interaction (HRI).\n\n\nSpoken input processing and interpretation.\n\n\nInteraction Management.\n\n\nOutput generation, multimodal fission, speech and gesture synthesis\n\n\nSystem development and evaluation.",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21ca\\f21CA-course_descriptor.pdf",
+            "heading": "Course descriptor CA24-25",
+            "heading_level": 1,
+            "heading_path": "Course descriptor CA24-25"
+        }
+    },
+    {
+        "text": "# Course Team\n",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21ca\\f21CA-course_team.pdf",
+            "heading": "Course Team",
+            "heading_level": 1,
+            "heading_path": "Course Team"
+        }
+    },
+    {
+        "text": "## Course Leader:\nMatthew Aylet - M.Aylett@hw.ac.uk",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21ca\\f21CA-course_team.pdf",
+            "heading": "Course Leader:",
+            "heading_level": 2,
+            "heading_path": "Course Team>Course Leader:"
+        }
+    },
+    {
+        "text": "## Course Team Members:\nOliver Lemon - O.Lemon@hw.ac.uk\n\n\nGavin Abercrombie - G.Abercrombie@hw.ac.uk",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21ca\\f21CA-course_team.pdf",
+            "heading": "Course Team Members:",
+            "heading_level": 2,
+            "heading_path": "Course Team>Course Team Members:"
+        }
+    },
+    {
+        "text": "## External Project Leaders:\nAlessandro Suglia - A.Suglia@hw.ac.uk\n\n\nBruce Wilson - bwwil@hw.ac.uk",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21ca\\f21CA-course_team.pdf",
+            "heading": "External Project Leaders:",
+            "heading_level": 2,
+            "heading_path": "Course Team>External Project Leaders:"
+        }
+    },
+    {
+        "text": "## Teaching Assistants:\nArash Ashrafzadeh - aa2676@hw.ac.uk\n\n\nSheena Shabana - S.Shabana@hw.ac.uk\n\n\n1",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21ca\\f21CA-course_team.pdf",
+            "heading": "Teaching Assistants:",
+            "heading_level": 2,
+            "heading_path": "Course Team>Teaching Assistants:"
+        }
+    },
+    {
+        "text": "# Course Timetable Timetable S1 - January (Edinburgh Campus)\n||**Monday**|**Tuesday**|**Wednesday**|**Thursday**|**Friday**||\n|---|---|---|---|---|---|---|\n|**AM**|**Lecture + Demos +**<br>**Lab [2hrs]**<br>**Room: PGC1**<br>**Time:** 9-11am||||||\n|**PM**||**F20CA Project**<br>**Group Meeting**<br>**Time:**2pm, 2.30pm,<br>3pm<br>30 mins supervision<br>(wks<br>2,3,4,7,9,10,11,12)<br>Specific project<br>meeting rooms will be<br>allocated in week 1||**F21CA Project**<br>**Group Meeting**<br>**Time:**2-3pm<br>Varying from [30 mins<br>supervision+ 30 mins<br>group meeting] (wks<br>2,3,4,7,9,10,11,12) to<br>group only discussion<br>(see below).<br>Specific project<br>meeting rooms will be<br>allocated in week 1|||\n\n\n\n**Note:** Room numbers may change please check regularly\n\n\n\n\n\n\n\n\n\n\n|Col1|Lecture + Lab|Tutorials|Assignments|\n|---|---|---|---|\n|**WEEK 1**|Introduction GA, OL,<br>MPA:<br>Intro to spoken<br>dialogue<br>systems and<br>conversational<br>agents.  Intro to<br>Natural<br>Language<br>Processing.<br>System<br>architectures.<br>Intro to Projects.<br>Intro to Teams.<br>Project selection<br>system.|Project Selection<br>Supervisors<br>will be<br>availble in<br>meeting<br>rooms to give<br>further details<br>on project<br>and project<br>requirements.||\n|**WEEK 2**|Lecture AS: Neural<br>Response<br>Generation<br>State of the art<br>generative<br>language models<br>All you need to<br>know about<br>LLMs<br>Lab: Ollama|F21CA 30 min<br>F20CA 20 min<br>Project<br>Supervision:<br>Progress<br>Project<br>Management|Demo presentation description|\n\n\n|WEEK 3|Lecture GA:<br>Ethics/Safety and<br>Response<br>Generation NLG<br>Lab: Ethics Approval|F21CA 30 min<br>F20CA 20 min<br>Project<br>Supervision:<br>Project Plan<br>Review<br>Task Allocation|Col4|\n|---|---|---|---|\n|**WEEK 4**|Lecture OL:<br>Understanding<br>Natural Language in<br>Context<br>Theory and<br>methods for<br>NLU. SLU, and<br>pragmatic issues<br>in language<br>understanding.<br>How can we get<br>machines to<br>understand what<br>words \"really\"<br>mean.<br>Lab: Reading<br>assignment class<br>quiz and group<br>discussion|F21CA 30 min<br>F20CA 20 min<br>Project<br>Supervision:<br>Progress<br>Project<br>Management||\n|**WEEK 5**|Lecture GA:<br>Evaluation and Data<br>Collection<br>evaluation<br>methods<br>crowdsourcing<br>dialogue data<br>Lab: evaluation plan<br>for each group|Groups meet<br>without<br>supervision<br>manage project||\n|**WEEK 6**<br>**Consolodation Week**|No Lecture|No Tutorial||\n|**WEEK 7**|Student Project<br>presentations  +<br>feedback session<br>(ALL)<br>Your presentation<br>should cover:<br>What will your<br>system do?<br> Example<br>dialogues;<br>screen shots /<br>mock-ups.<br> What is the<br>main research<br>question / focus<br>of the project?<br>E.g. SLU, DM,<br>NLG or ….?|F21CA 30 min<br>F20CA 20 min<br>Project<br>Supervision:<br>Progress<br>Project<br>Management|**Project presentations**|\n\n\n|WEEK 8|Lecture OL:<br>Dialogue<br>Management and<br>NLG<br>\"what to say and<br>how to say it\" in<br>conversational<br>systems.<br>Reinforcement<br>Learning<br>methods for<br>optimising DM<br>and NLG<br>decisions<br>DM and NLG in<br>the era of LLMs<br>Lab/practical : RASA<br>CALM:<br>conversational AI<br>with Language<br>models|Groups meet<br>without<br>supervision<br>manage project|Col4|\n|---|---|---|---|\n|**WEEK 9**|Lecture MPA:<br>Speech Technology<br>Text to Speech<br>(TTS)<br>Expressive<br>TTS<br>Voice Cloning<br>Vocal<br>Puppetry<br>Automatic<br>Speech<br>Recognition<br>(ASR)<br>Priniciples<br>Tools<br>Lab: Using cloud<br>ASR and TTS|F21CA 30 min<br>F20CA 20 min<br>Project<br>Supervision:<br>Progress<br>Project<br>Management<br>||\n|**WEEK 10**|**Guest Lecture:**<br>**Hazel Morton -**<br>**Speech Graphics**|F21CA 30 min<br>F20CA 20 min||\n\n\n|Col1|Augmenting<br>conversational AI<br>with animated digital<br>characters<br>Speech graphics'<br>animation<br>technology: our<br>roots in the<br>games industry<br>Animations and<br>gestures as they<br>apply to<br>conversation<br>Crafting<br>conversational<br>experiences with<br>digital characters<br>Applications and<br>cases studies (I<br>will share a few<br>examples from<br>our Rapport<br>clients across<br>different<br>verticals/use<br>cases)<br>Challenges and<br>Opportunities<br>Lab: Speech<br>Graphics Intro to<br>Rapport|Project<br>Supervision:<br>Progress<br>Project<br>Management|Col4|\n|---|---|---|---|\n|**WEEK 11**|Lecture MPA:<br>Conversational<br>Interaction<br>Turn taking and<br>Interruption<br>Multi-speaker<br>systems<br>Incremental ASR<br>Lab: Script follower<br>demo.<br>Conversational<br>Analysis|F21CA 30 min<br>F20CA 20 min<br>Project<br>Supervision:<br>Progress<br>Project<br>Management||\n|**WEEK 12**|Student project<br>demos/ reports  +<br>feedback session<br>(ALL)<br>Your demo<br>presentation should<br>be a mixture of<br>slides and video or a<br>live demo –<br>recommended<br>length about 10<br>mins -  used to<br>explain:<br>the overall<br>concept and<br>aims of your<br>system|F21CA 30 min<br>F20CA 20 min<br>Project<br>Supervision:<br>Report Writing<br>Report Writing|Project Demo<br>|",
+        "metadata": {
+            "course_id": "F21CA",
+            "source_path": "c:\\Users\\hamza\\Documents\\Heriot-Watt\\HWU-AI-Learning-Buddy-Copilot\\pdfs\\f21ca\\f21CA-timetable.pdf",
+            "heading": "Course Timetable Timetable S1 - January (Edinburgh Campus)",
+            "heading_level": 1,
+            "heading_path": "Course Timetable Timetable S1 - January (Edinburgh Campus)"
+        }
+    }
+]

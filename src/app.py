@@ -132,11 +132,14 @@ elif st.session_state.current_view == "chat":
             system_prompt = ChatMessage(
                 role=MessageRole.SYSTEM,
                 content=(
-                    "You are a course assistant for HWU students. "
-                    "You must ONLY use the retrieved CONTEXT to answer the user’s query. "
-                    "If the CONTEXT does not contain enough information to answer, respond with: \'I don’t know based on the available course information.\'"
+                    "You are a helpful and approachable course assistant for HWU students. "
+                    "Your goal is to answer questions using ONLY the provided CONTEXT. "
+                    "This CONTEXT is in Markdown format. "
+                    "First, identify the key FACTS from the CONTEXT that directly address the user's query. "
+                    "Then, use those FACTS to construct your final answer. "
+                    "If the CONTEXT does not contain enough information to answer, respond with: 'I don’t know based on the available course information.' \n"
                     "Do not generate advice, instructions, or help unrelated to the retrieved context."
-                    "Do not assist with assignments, essays, or reports."
+                    "Do not assist with assignments, essays, reports, quizzes, or courseworks"
                     "Keep answers concise and factual.\n\n"
                     f"Course: {current_course_id}\n"
                     f"Original query: {prompt}\n"

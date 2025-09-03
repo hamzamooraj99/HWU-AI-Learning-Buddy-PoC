@@ -44,12 +44,12 @@ if __name__ == "__main__":
     this_dir = os.path.dirname(__file__)
     root_dir = os.path.abspath(os.path.join(this_dir, ".."))
 
-    input_path = os.path.join(root_dir, "data", "F21CA_site_data.json")
+    input_path = os.path.join(root_dir, "data", "F21CA_data.json")
     output_path = os.path.join(root_dir, "data", "F21CA_embeddings.json")
 
     generate_embeddings(input_path, output_path)
 
-    input_path = os.path.join(root_dir, "data", "F21NL_site_data.json")
+    input_path = os.path.join(root_dir, "data", "F21NL_data.json")
     output_path = os.path.join(root_dir, "data", "F21NL_embeddings.json")
 
     generate_embeddings(input_path, output_path)

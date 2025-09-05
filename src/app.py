@@ -7,14 +7,15 @@ from llama_index.core.base.llms.types import ChatMessage, MessageRole
 import hashlib
 
 # --- Setup connections ---
-milvus_uri = "http://localhost:19530"   # or your Milvus service
+milvus_uri = "http://milvus_db:19530"   # or Milvus service
 client = MilvusClient(uri=milvus_uri)
 
 embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 
 llm = Ollama(
     model="llama3",
-    request_timeout=300.0
+    request_timeout=300.0,
+    host="http://ollama_llm:11434",
 )
 
 COURSE_COLLECTIONS = {

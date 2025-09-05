@@ -77,7 +77,7 @@ if __name__ == '__main__':
     root_dir = os.path.abspath(os.path.join(this_dir, ".."))
 
     client = MilvusClient(
-        uri="http://localhost:19530"
+        uri="http://milvus_db:19530"
     )
 
     course_ids = ['F21CA', 'F21NL']

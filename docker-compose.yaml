@@ -18,7 +18,7 @@ services:
     container_name: ollama_llm
     image: ollama/ollama:latest
     ports:
-      - "81434:81434"
+      - "81434:11434"
     volumes:
       - ollama_models:/root/.ollama
     networks:

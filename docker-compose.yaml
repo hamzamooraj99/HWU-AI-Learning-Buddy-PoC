@@ -10,7 +10,6 @@ services:
       - rag_network
     environment:
       - MILVUS_HOST=milvus_db
-    command: ["milvus", "run", "-c", "/etc/milvus/milvus.yaml"]
 
   ollama_llm:
     container_name: ollama_llm
@@ -19,7 +18,7 @@ services:
       - ollama_models:/root/.ollama
     networks:
       - rag_network
-    command: ["ollama", "run", "llama3"]
+    command: ["serve"]
 
   app:
     container_name: rag_app

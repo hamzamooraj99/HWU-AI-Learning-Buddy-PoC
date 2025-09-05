@@ -10,6 +10,7 @@ services:
       - rag_network
     environment:
       - MILVUS_HOST=milvus_db
+    command: ["milvus", "run", "standalone"]
 
   ollama_llm:
     container_name: ollama_llm

@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  milvus_db:
+    container_name: milvus_db
+    image: milvusdb/milvus:v2.4.0
+    ports:
+      - "19530:19530"
+    volumes:
+      - milvus_data:/var/lib/milvus
+    networks:
+      - rag_network
+    environment:
+      - MILVUS_HOST=milvus_db
+    command: ["milvus", "run", "-c", "/etc/milvus/milvus.yaml"]
+
+  ollama_llm:
+    container_name: ollama_llm
+    image: ollama/ollama:latest
+    ports:
+      - "11434:11434"
+    volumes:
+      - ollama_models:/root/.ollama
+    networks:
+      - rag_network
+    command: ["ollama", "run", "llama3"]
+    healthcheck:
+      test: ["CMD-SHELL", "ollama list | grep -q llama3 || ollama pull llama3"]
+      interval: 30s
+      timeout: 10s
+      retries: 5
+      start_period: 30s
+
+  app:
+    container_name: rag_app
+    build:
+      context: .
+      dockerfile: ./src/Dockerfile
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./src:/app/src
+      - ./data:/app/data
+    depends_on:
+      milvus_db:
+        condition: service_healthy
+      ollama_llm:
+        condition: service_healthy
+    networks:
+      - rag_network
+    restart: always
+
+networks:
+  rag_network:
+    driver: bridge
+
+volumes:
+  milvus_data:
+  ollama_models:

@@ -13,12 +13,13 @@ The system is designed as a set of interconnected services orchestrated by Docke
 - **LLM Container (ollama_llm):** Hosts the Llama3 LLM model using Ollama. It receives augmented prompts from the application container and generates responses.
 - **Vector Database Container (milvus_db):** A Milvus instance that stores and provides high-speed vector search for the course document embeddings.
 - **Persistent Volumes:** Docker volumes (milvus_data, ollama_models) ensure that the vector database and the LLM models are preserved across container restarts.
-- **User Interface:** A web browser through which the user interacts with the Streamlit app.  
-![alt text](http://url/to/img.png)
+- **User Interface:** A web browser through which the user interacts with the Streamlit app.
+
+![alt text](https://github.com/hamzamooraj99/HWU-AI-Learning-Buddy-PoC/blob/main/notebooks/sys_architecture.png)
 
 ## Workflow
 The following workflow diagram illustrates the sequence of events when a user submits a query:  
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/hamzamooraj99/HWU-AI-Learning-Buddy-PoC/blob/main/notebooks/diagram-export-9-5-2025-2_43_55-PM.png)
 
 # Getting Started
 ## Prerequisites

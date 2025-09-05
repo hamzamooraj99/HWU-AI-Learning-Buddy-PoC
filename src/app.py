@@ -7,8 +7,10 @@ from llama_index.core.base.llms.types import ChatMessage, MessageRole
 import hashlib
 
 # --- Setup connections ---
-milvus_uri = "http://milvus_db:19530"   # or Milvus service
-client = MilvusClient(uri=milvus_uri)
+client = MilvusClient(
+    host="milvus_db",  # container name
+    port="19530"       # internal port
+)
 
 embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 

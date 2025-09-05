@@ -8,7 +8,7 @@ def create_collection(client: MilvusClient, collection_name: str):
     """
     schema = client.create_schema(
         auto_id=True,
-        enable_dynamic_fieds=True
+        enable_dynamic_fields=True
     )
 
     # Add a primary key field - unique for each record
@@ -77,7 +77,8 @@ if __name__ == '__main__':
     root_dir = os.path.abspath(os.path.join(this_dir, ".."))
 
     client = MilvusClient(
-        uri="http://milvus_db:19530"
+        host="milvus_db",
+        port="19530"
     )
 
     course_ids = ['F21CA', 'F21NL']

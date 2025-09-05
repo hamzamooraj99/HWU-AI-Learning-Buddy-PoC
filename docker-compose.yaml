@@ -4,8 +4,6 @@ services:
   milvus_db:
     container_name: milvus_db
     image: milvusdb/milvus:v2.4.0
-    ports:
-      - "19530:19530"
     volumes:
       - milvus_data:/var/lib/milvus
     networks:
@@ -17,8 +15,6 @@ services:
   ollama_llm:
     container_name: ollama_llm
     image: ollama/ollama:latest
-    ports:
-      - "81434:11434"
     volumes:
       - ollama_models:/root/.ollama
     networks:

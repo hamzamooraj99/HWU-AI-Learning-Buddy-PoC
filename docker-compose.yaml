@@ -24,12 +24,6 @@ services:
     networks:
       - rag_network
     command: ["ollama", "run", "llama3"]
-    healthcheck:
-      test: ["CMD-SHELL", "ollama list | grep -q llama3 || ollama pull llama3"]
-      interval: 30s
-      timeout: 10s
-      retries: 5
-      start_period: 30s
 
   app:
     container_name: rag_app
@@ -42,10 +36,8 @@ services:
       - ./src:/app/src
       - ./data:/app/data
     depends_on:
-      milvus_db:
-        condition: service_healthy
-      ollama_llm:
-        condition: service_healthy
+      - milvus_db
+      - ollama_llm
     networks:
       - rag_network
     restart: always

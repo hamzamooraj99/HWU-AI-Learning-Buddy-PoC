@@ -1,0 +1,10 @@
+streamlit
+pymilvus
+llama-index-core
+llama-index-llms-ollama
+llama-index-embeddings-huggingface
+pymupdf4llm
+unstructured
+python-dotenv
+sentence-transformers
+tqdm

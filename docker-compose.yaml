@@ -5,22 +5,18 @@ services:
     container_name: milvus_db
     image: milvusdb/milvus:v2.4.0
     command: ["milvus", "run", "standalone"]
-    ports:
-      - "19530:19530"
-      - "9091:9091"
     networks:
       - rag_network
     volumes:
       - milvus_data:/var/lib/milvus
 
-
   ollama_llm:
     container_name: ollama_llm
     image: ollama/ollama:latest
-    volumes:
-      - ollama_models:/root/.ollama
     networks:
       - rag_network
+    volumes:
+      - ollama_models:/root/.ollama
     command: ["serve"]
 
   app:
@@ -30,15 +26,14 @@ services:
       dockerfile: ./src/Dockerfile
     ports:
       - "8501:8501"
+    networks:
+      - rag_network
     volumes:
       - ./src:/app/src
       - ./data:/app/data
     depends_on:
       - milvus_db
       - ollama_llm
-    networks:
-      - rag_network
-    restart: always
 
 networks:
   rag_network:

@@ -83,7 +83,14 @@ services:
       - rag_network
     volumes:
       - ollama_models:/root/.ollama
+    ports:
+      - "11434:11434"
     command: ["serve"]
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:11434/ || exit 1"]
+      interval: 15s
+      timeout: 10s
+      retries: 10
   
   # -------------------------
   # RAG Streamlit app
@@ -101,8 +108,10 @@ services:
       - ./src:/app/src
       - ./data:/app/data
     depends_on:
-      - milvus_db
-      - ollama_llm
+      - milvus_db:
+          condition: service_healthy
+      - ollama_llm:
+          condition: service_healthy
     environment:
       # Point to Milvus container internally
       - MILVUS_URI=http://milvus_db:19530

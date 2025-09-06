@@ -53,7 +53,8 @@ services:
     volumes:
       - ./volumes/milvus:/var/lib/milvus
     ports:
-      - "19530:19530"
+      - "19530:19530"  # gRPC port (keep as-is)
+      - "9092:9091"    # host 9092 → container 9091
     depends_on:
       - etcd
       - minio

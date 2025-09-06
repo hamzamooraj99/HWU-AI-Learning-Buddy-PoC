@@ -64,6 +64,8 @@ services:
       start_period: 90s
       timeout: 20s
       retries: 3
+    networks:
+      - rag_network
 
   # -------------------------
   # Ollama LLM

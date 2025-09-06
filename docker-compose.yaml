@@ -108,10 +108,8 @@ services:
       - ./src:/app/src
       - ./data:/app/data
     depends_on:
-      - milvus_db:
-          condition: service_healthy
-      - ollama_llm:
-          condition: service_healthy
+      - milvus_db
+      - ollama_llm
     environment:
       # Point to Milvus container internally
       - MILVUS_URI=http://milvus_db:19530

@@ -83,8 +83,6 @@ services:
       - rag_network
     volumes:
       - ollama_models:/root/.ollama
-    ports:
-      - "11434:11434"
     command: ["serve"]
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:11434/ || exit 1"]

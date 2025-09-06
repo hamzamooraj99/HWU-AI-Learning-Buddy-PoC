@@ -41,7 +41,7 @@ services:
   # Milvus standalone server
   # -------------------------
   milvus_db:
-    container_name: milvus-standalone
+    container_name: milvus_db
     image: milvusdb/milvus:v2.6.0
     command: ["milvus", "run", "standalone"]
     security_opt:

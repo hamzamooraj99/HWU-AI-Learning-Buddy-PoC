@@ -8,8 +8,7 @@ import hashlib
 
 # --- Setup connections ---
 client = MilvusClient(
-    host="milvus_db",  # container name
-    port="19530"       # internal port
+    uri="http://milvus_db:19530"
 )
 
 embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")

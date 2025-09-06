@@ -67,9 +67,6 @@ def insert_embeddings(client, input_file, collection_name: str):
         print(f"[INFO] Inserted {len(data)} records into '{collection_name}'")
     else:
         print(f"[WARN] No records with embeddings found in {input_file}. No data inserted.")
-    
-    client.insert(collection_name=collection_name, data=data)
-    print(f"[INFO] Inserted {len(data)} records into '{collection_name}'")
 
 
 if __name__ == '__main__':

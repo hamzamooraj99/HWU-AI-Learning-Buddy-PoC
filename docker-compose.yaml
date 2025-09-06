@@ -1,5 +1,3 @@
-version: '3.3'
-
 services:
   milvus_db:
     container_name: milvus_db

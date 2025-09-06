@@ -111,6 +111,7 @@ services:
     environment:
       # Point to Milvus container internally
       - MILVUS_URI=http://milvus_db:19530
+      - OLLAMA_HOST=http://ollama_llm:11434
 
 # -------------------------
 # Networks & volumes

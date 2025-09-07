@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 from pymilvus import MilvusClient
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
@@ -5,6 +6,9 @@ from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from llama_index.llms.ollama import Ollama
 from llama_index.core.base.llms.types import ChatMessage, MessageRole
 import hashlib
+
+# --- Environment Variables ---
+ollama_host = os.getenv("OLLAMA_HOST", "http://localhost:11434")
 
 # --- Setup connections ---
 client = MilvusClient(
@@ -16,6 +20,7 @@ embed_model = HuggingFaceEmbedding(model_name="BAAI/bge-small-en-v1.5")
 llm = Ollama(
     model="llama3",
     request_timeout=300.0,
+    base_url=ollama_host
 )
 
 COURSE_COLLECTIONS = {

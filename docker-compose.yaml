@@ -83,6 +83,11 @@ services:
       - rag_network
     volumes:
       - ollama_models:/root/.ollama
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
     command: ["serve"]
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:11434/api/version"]
